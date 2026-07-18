@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 7. Reverse Integer
 
 **Difficulty:** Easy
 **Topics:** Math
