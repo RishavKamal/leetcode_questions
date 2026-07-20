@@ -1,0 +1,11 @@
+Example 1:
+Input: num = 526
+Output: true
+
+Example 2:
+Input: num = 1800
+Output: false
+
+Example 3:
+Input: num = 0
+Output: true
