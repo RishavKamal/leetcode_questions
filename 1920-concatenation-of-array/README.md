@@ -1,4 +1,4 @@
-# 1920. Build Array from Permutation
+# 1929. Build Array from Permutation
 
 **Difficulty:** Easy
 **Topics:** Array, Simulation
