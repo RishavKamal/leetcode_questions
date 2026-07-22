@@ -1,4 +1,4 @@
-# 1929. Concatenation of Array
+# 1480. Concatenation of Array
 
 **Difficulty:** Easy
 **Topics:** Discover more
