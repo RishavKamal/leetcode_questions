@@ -1,4 +1,4 @@
-# 1470. Shuffle the Array
+# 1365. Shuffle the Array
 
 **Difficulty:** Easy
 **Topics:** Array, Hash Table, Sorting, Counting Sort
