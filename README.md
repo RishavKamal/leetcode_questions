@@ -1,67 +1,30 @@
 # LeetCode Solutions
 
-> **2** problems solved
+> **1** problems solved
 
 ## Topics
 
-- [Array](#array) (2)
-- [Counting](#counting) (1)
-- [Dynamic Programming](#dynamic-programming) (1)
-- [Greedy](#greedy) (1)
-- [Hash Table](#hash-table) (1)
-- [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Sorting](#sorting) (1)
+- [Simulation](#simulation) (1)
+- [String](#string) (1)
 - [All Problems](#all-problems)
 
-## Array
+## Simulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | Easy | java |
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
 
-## Counting
-
-| # | Title | Difficulty | Language |
-|---|-------|------------|----------|
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
-
-## Dynamic Programming
+## String
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | Easy | java |
-
-## Greedy
-
-| # | Title | Difficulty | Language |
-|---|-------|------------|----------|
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
-
-## Hash Table
-
-| # | Title | Difficulty | Language |
-|---|-------|------------|----------|
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
-
-## Heap (Priority Queue)
-
-| # | Title | Difficulty | Language |
-|---|-------|------------|----------|
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
-
-## Sorting
-
-| # | Title | Difficulty | Language |
-|---|-------|------------|----------|
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | java |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
 
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
-| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java |
-| 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | java |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 
 ---
 
