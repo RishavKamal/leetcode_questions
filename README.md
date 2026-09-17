@@ -1,18 +1,39 @@
 # LeetCode Solutions
 
-> **1** problems solved
+> **2** problems solved
 
 ## Topics
 
+- [Array](#array) (1)
+- [Monotonic Stack](#monotonic-stack) (1)
 - [Simulation](#simulation) (1)
+- [Stack](#stack) (1)
 - [String](#string) (1)
 - [All Problems](#all-problems)
+
+## Array
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
+
+## Monotonic Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
 
 ## Simulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
+
+## Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
 
 ## String
 
@@ -24,6 +45,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 
 ---
