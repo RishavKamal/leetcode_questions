@@ -17,7 +17,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
-| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
 ## Hash Table
 
@@ -30,7 +30,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
-| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
 ## Simulation
 
@@ -43,7 +43,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
-| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
 ## String
 
@@ -56,7 +56,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
-| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | java |
+| 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 
 ---
