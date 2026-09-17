@@ -1,13 +1,14 @@
 # LeetCode Solutions
 
-> **2** problems solved
+> **3** problems solved
 
 ## Topics
 
-- [Array](#array) (1)
-- [Monotonic Stack](#monotonic-stack) (1)
+- [Array](#array) (2)
+- [Hash Table](#hash-table) (1)
+- [Monotonic Stack](#monotonic-stack) (2)
 - [Simulation](#simulation) (1)
-- [Stack](#stack) (1)
+- [Stack](#stack) (2)
 - [String](#string) (1)
 - [All Problems](#all-problems)
 
@@ -15,12 +16,20 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
+
+## Hash Table
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
 
 ## Simulation
@@ -33,6 +42,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | java |
 
 ## String
@@ -45,6 +55,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 
