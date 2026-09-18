@@ -1,13 +1,18 @@
 # LeetCode Solutions
 
-> **3** problems solved
+> **4** problems solved
 
 ## Topics
 
-- [Array](#array) (2)
+- [Array](#array) (3)
 - [Hash Table](#hash-table) (1)
+- [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (2)
+- [Queue](#queue) (1)
+- [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Simulation](#simulation) (1)
+- [Sliding Window](#sliding-window) (1)
 - [Stack](#stack) (2)
 - [String](#string) (1)
 - [All Problems](#all-problems)
@@ -16,6 +21,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
@@ -25,6 +31,18 @@
 |---|-------|------------|----------|
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 
+## Heap (Priority Queue)
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
+## Monotonic Queue
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
@@ -32,11 +50,29 @@
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
+## Queue
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
+## Range Minimum/Maximum Query
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
 ## Simulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
+
+## Sliding Window
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 
 ## Stack
 
@@ -55,6 +91,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
