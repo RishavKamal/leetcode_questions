@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **6** problems solved
+> **7** problems solved
 
 ## Topics
 
@@ -18,6 +18,7 @@
 - [Stack](#stack) (2)
 - [String](#string) (1)
 - [Two Pointers](#two-pointers) (1)
+- [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -110,6 +111,12 @@
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
 
+## Uncategorized
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | java |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
@@ -120,6 +127,7 @@
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
+| 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 
 ---
 
