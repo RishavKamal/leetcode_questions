@@ -27,7 +27,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
-| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Java |
+| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
@@ -37,7 +37,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Java |
+| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
 
 ## Hash Table
 
@@ -131,7 +131,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | Array, Two Pointers, Sorting | java |
-| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | Java |
+| 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
