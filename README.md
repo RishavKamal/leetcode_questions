@@ -1,13 +1,14 @@
 # LeetCode Solutions
 
-> **7** problems solved
+> **8** problems solved
 
 ## Topics
 
-- [Array](#array) (5)
+- [Array](#array) (6)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Math](#math) (1)
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (2)
 - [Queue](#queue) (1)
@@ -17,7 +18,7 @@
 - [Sorting](#sorting) (1)
 - [Stack](#stack) (2)
 - [String](#string) (1)
-- [Two Pointers](#two-pointers) (1)
+- [Two Pointers](#two-pointers) (2)
 - [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
 
@@ -27,6 +28,7 @@
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Java |
+| 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
@@ -48,6 +50,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
+## Math
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 
 ## Monotonic Queue
 
@@ -110,6 +118,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
+| 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 
 ## Uncategorized
 
@@ -123,6 +132,7 @@
 |---|-------|------------|--------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | Array, Two Pointers, Sorting | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | Java |
+| 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
