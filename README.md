@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **8** problems solved
+> **9** problems solved
 
 ## Topics
 
-- [Array](#array) (6)
+- [Array](#array) (7)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -15,10 +15,10 @@
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (1)
-- [Sorting](#sorting) (1)
+- [Sorting](#sorting) (2)
 - [Stack](#stack) (2)
 - [String](#string) (1)
-- [Two Pointers](#two-pointers) (2)
+- [Two Pointers](#two-pointers) (3)
 - [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
 
@@ -27,6 +27,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
@@ -99,6 +100,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | java |
 
 ## Stack
 
@@ -118,6 +120,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 
 ## Uncategorized
@@ -131,6 +134,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | Array, Two Pointers, Sorting | java |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
