@@ -1,23 +1,30 @@
 # LeetCode Solutions
 
-> **10** problems solved
+> **11** problems solved
 
 ## Topics
 
-- [Array](#array) (8)
+- [Array](#array) (9)
+- [Binary Indexed Tree](#binary-indexed-tree) (1)
+- [Binary Search](#binary-search) (1)
+- [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (2)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (1)
+- [Merge Sort](#merge-sort) (1)
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
+- [Ordered Set](#ordered-set) (1)
 - [Queue](#queue) (1)
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
+- [Segment Tree](#segment-tree) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (2)
 - [Stack](#stack) (3)
 - [String](#string) (1)
+- [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (4)
 - [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
@@ -32,8 +39,27 @@
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
+
+## Binary Indexed Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
+## Binary Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
+## Divide and Conquer
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Dynamic Programming
 
@@ -60,6 +86,12 @@
 |---|-------|------------|----------|
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 
+## Merge Sort
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
 ## Monotonic Queue
 
 | # | Title | Difficulty | Language |
@@ -74,6 +106,12 @@
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 
+## Ordered Set
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
 ## Queue
 
 | # | Title | Difficulty | Language |
@@ -85,6 +123,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+
+## Segment Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Simulation
 
@@ -119,6 +163,12 @@
 |---|-------|------------|----------|
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
 
+## Treap
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
 ## Two Pointers
 
 | # | Title | Difficulty | Language |
@@ -144,6 +194,7 @@
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
