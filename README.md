@@ -1,14 +1,15 @@
 # LeetCode Solutions
 
-> **12** problems solved
+> **13** problems solved
 
 ## Topics
 
-- [Array](#array) (10)
+- [Array](#array) (11)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (2)
 - [Divide and Conquer](#divide-and-conquer) (1)
-- [Dynamic Programming](#dynamic-programming) (2)
+- [Dynamic Programming](#dynamic-programming) (3)
+- [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (1)
@@ -22,7 +23,7 @@
 - [Segment Tree](#segment-tree) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (2)
+- [Sorting](#sorting) (3)
 - [Stack](#stack) (3)
 - [String](#string) (1)
 - [Treap](#treap) (1)
@@ -41,6 +42,7 @@
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
+| 435 | [Non-overlapping Intervals](./435-non-overlapping-intervals/) | Medium | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
@@ -70,6 +72,13 @@
 |---|-------|------------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
+| 435 | [Non-overlapping Intervals](./435-non-overlapping-intervals/) | Medium | java |
+
+## Greedy
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 435 | [Non-overlapping Intervals](./435-non-overlapping-intervals/) | Medium | java |
 
 ## Hash Table
 
@@ -158,6 +167,7 @@
 |---|-------|------------|----------|
 | 18 | [4Sum](./18-4sum/) | Medium | java |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | java |
+| 435 | [Non-overlapping Intervals](./435-non-overlapping-intervals/) | Medium | java |
 
 ## Stack
 
@@ -205,6 +215,7 @@
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
+| 435 | [Non-overlapping Intervals](./435-non-overlapping-intervals/) | Medium | Array, Dynamic Programming, Greedy, Sorting | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
