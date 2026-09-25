@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **11** problems solved
+> **12** problems solved
 
 ## Topics
 
-- [Array](#array) (9)
+- [Array](#array) (10)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
-- [Binary Search](#binary-search) (1)
+- [Binary Search](#binary-search) (2)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (2)
 - [Hash Table](#hash-table) (1)
@@ -16,11 +16,12 @@
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Ordered Set](#ordered-set) (1)
+- [Prefix Sum](#prefix-sum) (1)
 - [Queue](#queue) (1)
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Segment Tree](#segment-tree) (1)
 - [Simulation](#simulation) (1)
-- [Sliding Window](#sliding-window) (1)
+- [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (2)
 - [Stack](#stack) (3)
 - [String](#string) (1)
@@ -38,6 +39,7 @@
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | java |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
@@ -53,6 +55,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Divide and Conquer
@@ -112,6 +115,12 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
+## Prefix Sum
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
+
 ## Queue
 
 | # | Title | Difficulty | Language |
@@ -140,6 +149,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | java |
 
 ## Sorting
@@ -193,6 +203,7 @@
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
