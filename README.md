@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **14** problems solved
+> **15** problems solved
 
 ## Topics
 
@@ -28,7 +28,7 @@
 - [String](#string) (1)
 - [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (4)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
 ## Array
@@ -204,6 +204,7 @@
 |---|-------|------------|----------|
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | java |
+| 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | java |
 
 ## All Problems
 
@@ -223,6 +224,7 @@
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
+| 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | - | java |
 
 ---
 
