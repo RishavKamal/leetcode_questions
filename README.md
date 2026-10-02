@@ -46,7 +46,7 @@
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
-| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Java |
 
 ## Binary Indexed Tree
 
@@ -130,7 +130,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
-| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Java |
 
 ## Queue
 
@@ -223,7 +223,7 @@
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
-| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Array, Prefix Sum | java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Array, Prefix Sum | Java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
