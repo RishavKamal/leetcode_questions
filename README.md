@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **15** problems solved
+> **16** problems solved
 
 ## Topics
 
-- [Array](#array) (11)
+- [Array](#array) (12)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (2)
 - [Divide and Conquer](#divide-and-conquer) (1)
@@ -17,7 +17,7 @@
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Ordered Set](#ordered-set) (1)
-- [Prefix Sum](#prefix-sum) (1)
+- [Prefix Sum](#prefix-sum) (2)
 - [Queue](#queue) (1)
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Segment Tree](#segment-tree) (1)
@@ -46,6 +46,7 @@
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | java |
 
 ## Binary Indexed Tree
 
@@ -129,6 +130,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | java |
 
 ## Queue
 
@@ -221,6 +223,7 @@
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | Java |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | Java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Array, Prefix Sum | java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | String, Simulation | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
