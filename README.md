@@ -1,16 +1,18 @@
 # LeetCode Solutions
 
-> **16** problems solved
+> **17** problems solved
 
 ## Topics
 
 - [Array](#array) (12)
+- [Bidirectional Search](#bidirectional-search) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (2)
+- [Breadth-First Search](#breadth-first-search) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (3)
 - [Greedy](#greedy) (1)
-- [Hash Table](#hash-table) (1)
+- [Hash Table](#hash-table) (2)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -25,7 +27,7 @@
 - [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (3)
 - [Stack](#stack) (3)
-- [String](#string) (1)
+- [String](#string) (2)
 - [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (4)
 - [Uncategorized](#uncategorized) (3)
@@ -48,6 +50,12 @@
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array/) | Easy | Java |
 
+## Bidirectional Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | java |
+
 ## Binary Indexed Tree
 
 | # | Title | Difficulty | Language |
@@ -60,6 +68,12 @@
 |---|-------|------------|----------|
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
+## Breadth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | java |
 
 ## Divide and Conquer
 
@@ -85,6 +99,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | java |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Java |
 
 ## Heap (Priority Queue)
@@ -183,6 +198,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | java |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy | java |
 
 ## Treap
@@ -215,6 +231,7 @@
 | 18 | [4Sum](./18-4sum/) | Medium | Array, Two Pointers, Sorting | java |
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java |
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | Hash Table, String, Breadth-First Search, Bidirectional Search | java |
 | 152 | [Maximum Product Subarray](./152-maximum-product-subarray/) | Medium | Array, Dynamic Programming | java |
 | 189 | [Rotate Array](./189-rotate-array/) | Medium | Array, Math, Two Pointers | java |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
